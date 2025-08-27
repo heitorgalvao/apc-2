@@ -18,6 +18,5 @@ int main(){
     
     printf("o total de segundos é:%li" , totals);
 
-
     return 0;
 }
